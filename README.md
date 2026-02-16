@@ -159,6 +159,23 @@ This project helped in understanding:
 
 ---
 
+## 📸 Project Screenshots
+
+### Example 1
+![Input 1](screenshots/input1.png)
+![Output 1](screenshots/output1.png)
+
+### Example 2
+![Input 2](screenshots/input2.png)
+![Output 2](screenshots/output2.png)
+
+### Example 3
+![Input 3](screenshots/input3.png)
+![Output 3](screenshots/output3.png)
+
+---
+
+
 ## 👨‍💻 Author
 
 Beginner Python project created for learning API integration and real-world data handling.
