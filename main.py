@@ -4,7 +4,7 @@
 import requests
 
 #  OpenWeatherMap API Key here
-API_KEY = "c40d8dfd5773583935f32189027fdf61"
+API_KEY = "YOUR_API_KEY_HERE"
 
 # 1 Ask user for city name
 city = input("Enter city name: ")
@@ -46,3 +46,4 @@ except requests.exceptions.ConnectionError:
     print(" No internet connection!")
 except Exception as e:
     print(" Something went wrong:", e)
+
